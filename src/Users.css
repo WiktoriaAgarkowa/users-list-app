@@ -1,0 +1,19 @@
+input {
+    border: 0;
+    padding: 10px 0 10px 10px;
+    color: #333;
+    outline: 0;
+}
+
+button {
+    border: 0;
+    background-color: #0066ff;
+    padding: 10px;
+    margin-left: 10px;
+    color: #fff;
+}
+
+button:hover {
+    background-color: #003399;
+    cursor: pointer;
+}
